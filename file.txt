@@ -1,3 +1,1 @@
-"Prima versione" 
-altro testo
-altro ancora
+"Versione originale" 
